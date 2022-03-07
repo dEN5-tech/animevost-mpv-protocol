@@ -1,3 +1,3 @@
 ПРЕВЬЮ
 
-[img]https://dl.dropboxusercontent.com/s/nwn0qqhnwglod4l/chrome_9OgRumWeJQ.gif[/img]
+![](chrome_9OgRumWeJQ.gif?raw=true)
